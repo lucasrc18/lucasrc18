@@ -1,5 +1,6 @@
 <!-- TO INSERT HERE A LITTLE BANNER -->
-# 👋 Seja bem vindos a minha página no github, eu me chamo Lucas e sou um game-dev (C# e Java) e desenvolvedor web fullstack! 🙂
+# 👋 Olá pessoal! Prazer eu me chamo Lucas
+## Sou um game-dev (C# e Java) e desenvolvedor web fullstack! 🙂
 
 ### 👤 Sobre mim:
 
