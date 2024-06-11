@@ -6,7 +6,7 @@
 ### 👤 Sobre mim:
 
 Sou um entusiasta da tecnologia, eterno estudante e pesquisador, apaixonado por resolver problemas complexos com soluções simples e acessíveis. Meu objetivo é escrever códigos limpos, intuitivos e com desempenho otimizado.
-<br />Além disso, tenho um grau técnico em Desenvolvimento de Sistemas e experiência na manutenção de placas eletrônicas.
+<br /><br />Além disso, tenho um grau técnico em Desenvolvimento de Sistemas e experiência na manutenção de placas eletrônicas.
 
 <div align=center>
 	<a href = "mailto:lucas.rcaetano1122@gmail.com">
