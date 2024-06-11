@@ -25,8 +25,8 @@ Tenho como objetivo manter meus códigos sempre os mais limpos e intuitivos, al�
 ### 📅 Estatísticas do Git:
 
 <a href="https://github.com/lucasrc18">
-<img align=center width=41% height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrc18&layout=compact&langs_count=7&theme=radical"/>
-<img align=center width=49% height="195px" src="https://github-readme-stats.vercel.app/api?username=lucasrc18&show_icons=true&theme=radical&cache_seconds=7200"/>
+<img align=center width=40% height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrc18&layout=compact&langs_count=7&theme=radical"/>
+<img align=center width=40% height="195px" src="https://github-readme-stats.vercel.app/api?username=lucasrc18&show_icons=true&theme=radical&cache_seconds=7200"/>
 
 <!-- INSERT SOME IMAGE HERE -->
 
