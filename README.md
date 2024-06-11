@@ -1,14 +1,12 @@
-<!-- TO INSERT HERE A LITTLE BANNER -->
-# 👋 Olá pessoal! Prazer eu me chamo Lucas
-## Sou um game-dev (C# e Java) e desenvolvedor web fullstack! 🙂
+
+# 👋 Olá pessoal!
+### Sou um desenvolvedor web fullstack e entusiasta do mundo da tecnologia 🙂
+
 
 ### 👤 Sobre mim:
 
-Sou um entusiasta do mundo da tecnologia, eterno estudante e pesquisador, apaixonado em resolver problemas complexos em soluções simples e acessíveis. 
-Tenho como objetivo manter meus códigos sempre os mais limpos e intuitivos, além de mantelos sempre em sua melhor performance.
-
-
-### 🔗 Links:
+Sou um entusiasta da tecnologia, eterno estudante e pesquisador, apaixonado por resolver problemas complexos com soluções simples e acessíveis. Meu objetivo é escrever códigos limpos, intuitivos e com desempenho otimizado.
+Além disso, tenho um grau técnico em Desenvolvimento de Sistemas e experiência na manutenção de placas eletrônicas.
 
 <div align=center>
 	<a href = "mailto:lucas.rcaetano1122@gmail.com">
@@ -25,8 +23,12 @@ Tenho como objetivo manter meus códigos sempre os mais limpos e intuitivos, al�
 ### 📅 Estatísticas do Git:
 
 <a href="https://github.com/lucasrc18">
-<img align=center height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrc18&layout=compact&langs_count=7&theme=radical"/>
-<img align=center height="195px" src="https://github-readme-stats.vercel.app/api?username=lucasrc18&show_icons=true&theme=radical&cache_seconds=7200"/>
+
+
+<div align=center>
+	<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrc18&layout=compact&langs_count=7&theme=radical"/>
+	<img height="195px" src="https://github-readme-stats.vercel.app/api?username=lucasrc18&show_icons=true&theme=radical&cache_seconds=7200"/>
+</div>
 
 <!-- INSERT SOME IMAGE HERE -->
 
