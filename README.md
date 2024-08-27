@@ -6,7 +6,7 @@
 ### 👤 Sobre mim:
 
 Sou um entusiasta da tecnologia, eterno estudante e pesquisador, apaixonado por resolver problemas complexos com soluções simples e acessíveis. Meu objetivo é escrever códigos limpos, intuitivos e com desempenho otimizado.
-<br /><br />Além disso, tenho um grau técnico em Desenvolvimento de Sistemas e experiência na manutenção de placas eletrônicas.
+<br /><br />Além de meu grau técnico em Desenvolvimento de Sistemas, possuo experiência na manutenção de placas eletrônicas.
 
 <div align=center>
 	<a href = "mailto:lucas.rcaetano1122@gmail.com">
@@ -18,16 +18,6 @@ Sou um entusiasta da tecnologia, eterno estudante e pesquisador, apaixonado por 
 	<a href="https://www.instagram.com/lucas.rc20">
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 	</a>
-</div>
-
-### 📅 Estatísticas do Git:
-
-<a href="https://github.com/lucasrc18">
-
-
-<div align=center>
-	<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrc18&layout=compact&langs_count=7&theme=radical"/>
-	<img height="195px" src="https://github-readme-stats.vercel.app/api?username=lucasrc18&show_icons=true&theme=radical&cache_seconds=7200"/>
 </div>
 
 <!-- INSERT SOME IMAGE HERE -->
