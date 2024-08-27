@@ -1,12 +1,12 @@
 
-# 👋 Olá pessoal!
+# 👋 Olá pessoal! Meu nome é Lucas, técnico em Desenvolvimento de Sistemas :)
 ### Sou um desenvolvedor web fullstack e entusiasta do mundo da tecnologia 🙂
 
 
 ### 👤 Sobre mim:
 
-Sou um entusiasta da tecnologia, eterno estudante e pesquisador, apaixonado por resolver problemas complexos com soluções simples e acessíveis. Meu objetivo é escrever códigos limpos, intuitivos e com desempenho otimizado.
-<br /><br />Além de meu grau técnico em Desenvolvimento de Sistemas, possuo experiência na manutenção de placas eletrônicas.
+Sou um entusiasta da tecnologia, eterno estudante e pesquisador, apaixonado por resolver problemas complexos com soluções simples e acessíveis. Meu objetivo é usar o potencial máximo da tecnologia para solucionar problemas reais através de códigos limpos, intuitivos e com desempenho otimizado.
+Além de meu grau técnico em Desenvolvimento de Sistemas, possuo experiência na manutenção de placas eletrônicas.
 
 <div align=center>
 	<a href = "mailto:lucas.rcaetano1122@gmail.com" target="_blank">
