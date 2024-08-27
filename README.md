@@ -9,13 +9,13 @@ Sou um entusiasta da tecnologia, eterno estudante e pesquisador, apaixonado por 
 <br /><br />Além de meu grau técnico em Desenvolvimento de Sistemas, possuo experiência na manutenção de placas eletrônicas.
 
 <div align=center>
-	<a href = "mailto:lucas.rcaetano1122@gmail.com">
+	<a href = "mailto:lucas.rcaetano1122@gmail.com" target="_blank">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 	</a>
 	<a href="https://www.linkedin.com/in/lucas-rc20/" target="_blank">
 		<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 	</a>
-	<a href="https://www.instagram.com/lucas.rc20">
+	<a href="https://www.instagram.com/lucas.rc20" target="_blank">
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 	</a>
 </div>
